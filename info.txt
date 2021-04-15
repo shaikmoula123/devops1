@@ -1,2 +1,3 @@
 info.txt
-im moula im created this file for training and iam happy to share this file...
+im moula im created this file for training and iam happy to share this file.
+..devops is having vast job oppurtunities
