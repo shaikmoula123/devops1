@@ -1,2 +1,4 @@
 info.txt
-im moula im created this file for training
+im moula im created this file for training and iam happy to share this file.
+..devops is having vast job oppurtunities
+its very difficult to learn devops
